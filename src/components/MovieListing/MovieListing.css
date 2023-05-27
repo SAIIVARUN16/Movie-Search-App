@@ -1,0 +1,8 @@
+*{
+    background-color: #060d17;
+    color: white;
+}
+.movie-list h2,.show-list h2{
+    text-align: center;
+    color: rgb(11, 89, 178);
+}

@@ -1,0 +1,18 @@
+.card-item{
+    height: 350px;
+    width:250px;
+}
+.card-top{
+    width:250px;
+    height: 300px;
+}
+.card-top img{
+    height: 100%;
+    width: 100%;
+}
+.card-info h4{
+    font-size: 20px;
+}
+.link{
+    text-decoration: none;
+}
